@@ -6,3 +6,7 @@ identifier.license:1260e6efd3271584d7ed05n45cbf41575252acbc group.admin # Kişiy
 (Lisans Yerine Hex İd Girebilirsiniz)
 
 Pause menüsünde space bar ile çalışır.
+
+Script Görseli : 
+
+https://www.hizliresim.com/msar53k
